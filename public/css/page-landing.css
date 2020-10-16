@@ -54,3 +54,10 @@ main h1 {
 .visit a {
     animation-delay: 250ms;
 }
+
+/* dESKTOP VERSIOM*/
+
+@media (min-width: 760px){
+    
+
+}
